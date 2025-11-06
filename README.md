@@ -4,9 +4,6 @@
 # Hi 👋, I'm **Pathmarasan Piragash**
 ### A Passionate Full Stack Developer from Sri Lanka 🌍 | Building the Future of Web Development
 
-<p align="right">
-  <img alt="Coding" width="400" src="https://sysway.co.in/images/about2.png">
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pppiragash&label=Profile%20views&color=0e75b6&style=flat" alt="pppiragash" />
@@ -19,8 +16,8 @@
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. I thrive in building dynamic and scalable web applications. I love collaborating with others to build cutting-edge software solutions.
 
 ### Current Focus:
-- Building a **Full Stack Web Application** at [Unicom Tic](https://github.com/PPPiragash).
-- Learning new technologies like **Angular**, **TypeScript**, **C#**, and **SQL**.
+- I serve as an **Associate Software Engineer (Full-Time) at Unicorn Connected Apps Limited** (since January 2025), where I apply my technical knowledge, logical thinking, and problem-solving skills to develop impactful, real-world software solutions.
+- Alongside my professional role, I am pursuing a **Bachelor of Information Technology (BIT) degree at the University of Moratuwa**, continuously enhancing my academic foundation and technical expertise.
 
 ### A bit about my journey:
 - 💻 **Background**: I hold a strong background in Information Technology with a focus on Software Development. I've developed a love for coding and problem-solving throughout my career.
@@ -44,7 +41,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 - **MySQL** | **SQL Server** | **MongoDB** | **SQLite** | **MariaDB**
 
 ### **Version Control**:
-- **Git** | **GitHub** | **GitLab**
+- **Git** | **GitHub** | **GitLab** | **Azure DevOps**
 
 ### **Deployment**:
 - **Docker** | **Heroku** | **AWS** | **Netlify**
@@ -101,11 +98,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pppiragash&show_icons=true&locale=en&theme=radical" alt="pppiragash" />
 </p>
 
-### **GitHub Streak**:
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pppiragash&theme=radical" alt="pppiragash" />
-</p>
 
 ### **Most Used Languages**:
 
@@ -136,10 +129,11 @@ A simple REST API built with Node.js and Express to create, read, update, and de
 
 ## 🏆 Certifications & Achievements
 
-- **Advanced Certificate in Full Stack Development** – University of Moratuwa
-- **Certified Java Developer** – Oracle
-- **Web Development Bootcamp** – Developers Stack Academy
-- **Certified in SQL & Database Management** – Esoft Metro Campus
+- **Trainee Full-Stack Developer (Online)** – University of Moratuwa
+- **Java 7-Day Bootcamp** – Developers Stack Academy
+- **Diploma in Information Technology, Foundation in IT & English** – Esoft Metro Campus
+- **Advanced Certificate in Computer Application** – Ministry of Education
+- **Industry Ready Software Development (9-Month Program)** – Unicom TIC
 
 ---
 
@@ -156,7 +150,7 @@ A simple REST API built with Node.js and Express to create, read, update, and de
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="mailto:pppiragash2004@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
+    <img src="https://th.bing.com/th/id/OIP.TW21b-CFGudjWw39HNhqcgHaEK?w=299&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="Email" height="30" width="40" />
   </a>
 </p>
 
