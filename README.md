@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 ![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 
-# Hi 👋, I'm **Pathmarasan Piragash**
+# Hi 👋, I'm **Piragash Pathmarasan**
 ### A Passionate Full Stack Developer from Sri Lanka 🌍 | Building the Future of Web Development
 
 
