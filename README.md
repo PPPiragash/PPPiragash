@@ -178,5 +178,5 @@ I regularly write about programming, web development, and my learning experience
 
 Feel free to reach out to me via:
 - 📧 **Email**: [pppiragash2004@gmail.com](mailto:pppiragash2004@gmail.com)
-- 🔗 **LinkedIn**: [Pathmarasan Piragash](https://linkedin.com/in/pathmarasan-piragash)
+- 🔗 **LinkedIn**: [Piragash Pathmarasan](https://www.linkedin.com/in/piragash-pathmarasan)
 - 📝 **Dev.to**: [pathmarasan-piragash](https://dev.to/pathmarasan-piragash)
