@@ -16,7 +16,7 @@
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. I thrive in building dynamic and scalable web applications. I love collaborating with others to build cutting-edge software solutions.
 
 ### Current Focus:
-- I serve as an **Associate Software Engineer (Full-Time) at Unicorn Connected Apps Limited** (since January 2025), where I apply my technical knowledge, logical thinking, and problem-solving skills to develop impactful, real-world software solutions.
+- I work as a **Software Engineer at Unicorn Connected Apps**, applying my technical knowledge, logical thinking, and problem-solving skills to develop impactful, real-world software solutions.
 - Alongside my professional role, I am pursuing a **Bachelor of Information Technology (BIT) degree at the University of Moratuwa**, continuously enhancing my academic foundation and technical expertise.
 
 ### A bit about my journey:
